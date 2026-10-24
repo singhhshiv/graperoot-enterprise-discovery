@@ -1,0 +1,6 @@
+requirement,stakeholder,why_it_might_matter,evidence_to_collect,priority,status
+Local or controlled processing,security owner,source code may not leave approved environments,security questionnaire and deployment constraints,high,unvalidated
+Team licensing,engineering leader,individual access may not scale to a team,seat workflow and renewal question,medium,unvalidated
+Usage and cost reporting,economic buyer,value must be visible beyond anecdote,baseline and calculation method,high,unvalidated
+Multi-tool support,developer champion,teams use different coding agents and editors,environment inventory,medium,unvalidated
+Support and reliability,team manager,failures affect shared workflows,incident and response expectations,medium,unvalidated
